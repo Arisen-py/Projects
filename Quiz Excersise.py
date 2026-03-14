@@ -1,3 +1,5 @@
+#This project is under development and is not fully completeled yet.
+
 import random
 
 questions = [["What is 2+2? "], ["What comes after G? "], ["What is the first letter in the alphabets? "]]
